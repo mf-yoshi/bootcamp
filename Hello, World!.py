@@ -1,4 +1,5 @@
 print("Hello, World!")
-a = "Hello World!"
 
-print(a)
+print("Hello,World!".upper())
+
+print("Hello,World!".lower())
